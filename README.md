@@ -12,7 +12,7 @@ I wanted to print stuff to a receipt printer. Here are some notes and some tools
 
 ## Some setup
 
-1. Install the printer and its crappy software. I ended up downloading [http://download.dymo.com/software/mac/MacDls842Installer.dmg]() via [the download page here](http://sites.dymo.com/Support/Pages/ProductDetails.aspx?MainTab=1&Tab=1&ProductID=1752265\(DYMO\)). At this point I'd use the crappy software
+1. Install the printer and its crappy software. I ended up downloading [http://download.dymo.com/software/mac/MacDls842Installer.dmg]() via [the download page here](http://sites.dymo.com/Support/Pages/ProductDetails.aspx?MainTab=1&Tab=1&ProductID=1752265\(DYMO\)). At this point I'd use the crappy software just to make sure everything about the printer and drivers work.
 
 1. Install PhantomJS
 
