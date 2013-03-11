@@ -1,0 +1,1 @@
+echo " " | pbmtext | pnmtoplainpnm | ./pbm2lwxl 600 300 | lpr -P DYMO_LabelWriter_450_Turbo -o raw
